@@ -1,0 +1,8 @@
+{
+  "/budget-backend/api": {
+    "target": "http://devapp01.icico.net.ir",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
